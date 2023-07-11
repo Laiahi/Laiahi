@@ -16,6 +16,8 @@
 - ![SQL](https://img.shields.io/badge/SQL-3DOC84?style=for-the-badge&logo=PowerBI&logoColor=white&labelColor=101010)</br>
 - ![HHRR Admin](https://img.shields.io/badge/RRHHADMIN-3DOC84?style=for-the-badge&logo=PowerBI&logoColor=white&labelColor=101010)</br>
 - ![Data Analyst](https://img.shields.io/badge/DATA_ANALYST-3DOC84?style=for-the-badge&logo=PowerBI&logoColor=white&labelColor=101010)</br>
+- ![Python](https://img.shields.io/badge/DATA_ANALYST-3DOC84?style=for-the-badge&logo=PowerBI&logoColor=white&labelColor=101010)</br>
+- ![Java](https://img.shields.io/badge/DATA_ANALYST-3DOC84?style=for-the-badge&logo=PowerBI&logoColor=white&labelColor=101010)</br>
 
 ### Languages
 - Spanish
